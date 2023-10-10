@@ -1,0 +1,2 @@
+Start Time,Url,Error,Operation,End Time,Elapsed Time
+"20/09/2023, 10:34:54.099540",https://www.studiesinaustralia.com/courses-in-australia/airways-aviation/campuses,"HTTPSConnectionPool(host='www.studiesinaustralia.com', port=443): Read timed out.",Save campus url,"20/09/2023, 10:35:15.512797",21.41325616836548
